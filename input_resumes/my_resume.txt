@@ -1,0 +1,59 @@
+John Doe
+123 University Avenue, College Town, ST 12345
+(555) 123-4567 | john.doe@email.com | linkedin.com/in/johndoe | github.com/johndoe
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology, Expected Graduation: May 2025
+GPA: 3.7/4.0
+Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Systems, Web Development
+
+SKILLS
+Programming Languages: Python, Java, C++
+Machine Learning: Basic understanding of supervised/unsupervised learning, scikit-learn
+Version Control: Git, GitHub
+Problem Solving: Analytical thinking, algorithm design, debugging
+Soft Skills: Team collaboration, communication, time management
+
+ACADEMIC PROJECTS
+
+Machine Learning Image Classifier (Python, scikit-learn, Jupyter)
+- Developed a basic image classification model using MNIST dataset
+- Implemented data preprocessing, model training, and evaluation
+- Achieved 92% accuracy on test set
+- Learned about overfitting, cross-validation, and model optimization
+
+Web Scraping and Data Analysis Tool (Python, BeautifulSoup, Pandas)
+- Built a web scraper to collect data from public APIs
+- Cleaned and analyzed data using Pandas for insights
+- Created visualizations with Matplotlib
+- Demonstrated data collection and analysis skills
+
+Student Database Management System (Java, SQL, MySQL)
+- Designed and implemented a database for student records
+- Created SQL queries for data retrieval and manipulation
+- Developed a simple Java GUI for user interaction
+- Applied database design principles and normalization
+
+TOOLS & TECHNOLOGIES
+- Python Libraries: Pandas, NumPy, Matplotlib, scikit-learn
+- Development Environments: Jupyter Notebook, VS Code, Eclipse
+- Version Control: Git, GitHub
+- Databases: MySQL, SQLite
+- Operating Systems: Windows, Linux
+
+EXPERIENCE
+Teaching Assistant - Introduction to Programming
+University of Technology, Fall 2023 - Present
+- Assisted professor in grading assignments and labs
+- Held office hours to help students with programming concepts
+- Created supplementary materials for difficult topics
+
+CERTIFICATIONS
+- Google IT Support Professional Certificate (Coursera)
+- Python for Everybody Specialization (Coursera)
+
+ACTIVITIES
+- Computer Science Club Member
+- Hackathon Participant (2 events)
+- Volunteer Tutor for introductory programming courses

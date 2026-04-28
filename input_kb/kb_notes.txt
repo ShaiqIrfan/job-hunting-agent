@@ -1,0 +1,137 @@
+Machine Learning Interview Preparation Notes
+
+MACHINE LEARNING BASICS
+
+Machine Learning (ML):
+- Subset of AI that enables computers to learn from data without being explicitly programmed
+- Involves algorithms that improve performance on tasks through experience
+- Three main types: supervised, unsupervised, and reinforcement learning
+
+Supervised Learning:
+- Learning with labeled training data
+- Goal: predict outcomes for new data based on patterns in training data
+- Examples: classification (spam detection) and regression (price prediction)
+- Common algorithms: Linear Regression, Decision Trees, Support Vector Machines, Neural Networks
+
+Unsupervised Learning:
+- Learning from unlabeled data
+- Goal: find hidden patterns or groupings in data
+- Examples: clustering (customer segmentation) and dimensionality reduction
+- Common algorithms: K-Means, Hierarchical Clustering, Principal Component Analysis (PCA)
+
+Reinforcement Learning:
+- Learning through interaction with environment
+- Agent learns by taking actions and receiving rewards/penalties
+- Goal: maximize cumulative reward over time
+- Examples: game playing (AlphaGo), robotics, recommendation systems
+
+SOFTWARE ENGINEERING CONCEPTS
+
+APIs (Application Programming Interfaces):
+- Set of rules and protocols for accessing web-based software applications
+- Allow different software systems to communicate with each other
+- RESTful APIs: architectural style using HTTP methods (GET, POST, PUT, DELETE)
+- Key components: endpoints, request/response format (usually JSON), authentication
+
+Version Control with Git:
+- System for tracking changes to code over time
+- Essential for collaborative development
+- Basic commands: git init, git add, git commit, git push, git pull
+- Branching strategy: main/master branch for production, feature branches for development
+
+Data Structures and Algorithms:
+- Arrays: fixed-size, contiguous memory blocks
+- Linked Lists: dynamic size, nodes connected by pointers
+- Stacks: LIFO (Last In, First Out) structure
+- Queues: FIFO (First In, First Out) structure
+- Trees: hierarchical structure with root and child nodes
+- Hash Tables: key-value pairs with fast lookup (average O(1))
+
+Object-Oriented Programming (OOP):
+- Programming paradigm based on objects containing data and methods
+- Four pillars: Encapsulation, Inheritance, Polymorphism, Abstraction
+- Classes vs Objects: Class is blueprint, Object is instance
+- Benefits: modularity, reusability, maintainability
+
+COMMON INTERVIEW CONCEPTS
+
+Big O Notation:
+- Describes algorithm performance and complexity
+- Time complexity: how runtime scales with input size
+- Space complexity: how memory usage scales with input size
+- Common complexities: O(1), O(log n), O(n), O(n log n), O(n²)
+
+SQL Basics:
+- Structured Query Language for managing relational databases
+- SELECT: retrieve data from tables
+- JOIN: combine data from multiple tables
+- WHERE: filter records based on conditions
+- GROUP BY: group records for aggregation
+- ORDER BY: sort results
+
+Testing:
+- Unit Testing: test individual components/functions
+- Integration Testing: test interaction between components
+- System Testing: test entire application
+- TDD (Test-Driven Development): write tests before code
+
+Agile Methodology:
+- Iterative approach to software development
+- Key principles: customer collaboration, working software, responding to change
+- Scrum framework: sprints (2-4 weeks), daily standups, sprint planning, retrospectives
+- Roles: Product Owner, Scrum Master, Development Team
+
+Cloud Computing:
+- Delivery of computing services over the internet
+- Three main service models: IaaS, PaaS, SaaS
+- Benefits: scalability, cost-effectiveness, accessibility
+- Major providers: AWS, Google Cloud, Microsoft Azure
+
+PYTHON-SPECIFIC CONCEPTS
+
+List Comprehensions:
+- Concise way to create lists from existing iterables
+- Syntax: [expression for item in iterable if condition]
+- Example: squares = [x**2 for x in range(10)]
+
+Decorators:
+- Functions that modify behavior of other functions
+- Used for logging, authentication, caching
+- Syntax: @decorator_name above function definition
+
+Generators:
+- Functions that return iterators
+- Use 'yield' instead of 'return'
+- Memory efficient for large datasets
+- Example: def fibonacci(n): a, b = 0, 1; for _ in range(n): yield a; a, b = b, a + b
+
+Lambda Functions:
+- Anonymous functions defined with lambda keyword
+- Single expression functions
+- Often used with map(), filter(), sort()
+- Example: lambda x: x**2
+
+DATA SCIENCE WORKFLOW
+
+CRISP-DM Process:
+1. Business Understanding: define objectives and requirements
+2. Data Understanding: collect and explore data
+3. Data Preparation: clean, transform, and select features
+4. Modeling: select and build models
+5. Evaluation: assess model performance
+6. Deployment: implement model in production
+
+Feature Engineering:
+- Process of creating new features from existing data
+- Techniques: scaling, encoding categorical variables, creating interaction features
+- Importance: directly impacts model performance
+
+Model Evaluation Metrics:
+- Classification: accuracy, precision, recall, F1-score, AUC-ROC
+- Regression: MSE, RMSE, MAE, R²
+- Overfitting vs Underfitting: balance model complexity with data
+
+Cross-Validation:
+- Technique to assess model performance on unseen data
+- K-fold CV: split data into k subsets, train on k-1, test on remaining
+- Helps prevent overfitting and provides reliable performance estimates

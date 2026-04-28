@@ -1,0 +1,63 @@
+Junior AI Engineer Intern
+
+About Us:
+TechInnovate is a leading technology company specializing in artificial intelligence solutions. We're looking for passionate interns to join our AI development team and contribute to cutting-edge projects that impact millions of users worldwide.
+
+Position: Junior AI Engineer Intern
+
+Location: Remote/Hybrid
+Duration: 3-6 months (with potential for extension)
+Compensation: Competitive internship stipend + learning opportunities
+
+Job Description:
+We are seeking a motivated Junior AI Engineer Intern to join our dynamic team. This internship provides hands-on experience in developing and deploying AI models, working with real-world datasets, and collaborating on innovative projects. You'll work closely with senior engineers and researchers to build the next generation of AI applications.
+
+Required Skills:
+- Python: Proficiency in Python programming language
+- Machine Learning: Basic understanding of ML concepts and algorithms
+- Git: Version control experience with Git
+- APIs: Knowledge of RESTful APIs and web services
+- SQL: Database querying and management skills
+
+Key Responsibilities:
+- Assist in developing and training machine learning models
+- Work with large datasets for data preprocessing and analysis
+- Collaborate on API development and integration
+- Participate in code reviews and contribute to team projects
+- Learn and apply best practices in software development
+- Document code and processes for knowledge sharing
+- Support testing and debugging of AI applications
+- Contribute to research and experimentation with new AI techniques
+
+Preferred Qualifications:
+- Currently pursuing or recently completed a degree in Computer Science, Data Science, or related field
+- Experience with popular ML libraries (scikit-learn, TensorFlow, PyTorch)
+- Familiarity with cloud platforms (AWS, Google Cloud, Azure)
+- Knowledge of data visualization tools (Matplotlib, Seaborn)
+- Understanding of statistics and probability
+- Previous internship or project experience in AI/ML
+- Familiarity with containerization (Docker)
+
+Soft Skills:
+- Strong problem-solving abilities
+- Excellent communication skills for technical discussions
+- Ability to work effectively in a team environment
+- Self-motivated and eager to learn
+- Attention to detail and commitment to quality
+- Adaptability to changing project requirements
+- Time management and organizational skills
+
+What We Offer:
+- Mentorship from experienced AI engineers
+- Exposure to real-world AI projects and technologies
+- Professional development opportunities
+- Flexible working hours
+- Certificate of completion
+- Potential for future employment opportunities
+
+How to Apply:
+Please submit your resume, cover letter, and any relevant project portfolios. Include links to your GitHub repository if available.
+
+We encourage applications from diverse backgrounds and are committed to creating an inclusive environment for all interns.
+
+Join us in shaping the future of AI!
