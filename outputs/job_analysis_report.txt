@@ -1,0 +1,23 @@
+Job Analysis
+
+Job Description:
+Junior AI Engineer Intern
+
+About Us:
+TechInnovate is a leading technology company specializing in artificial intelligence solutions. We're looking for passionate interns to join our AI development team and contribute to cutting-edge projects that impact millions of users worldwide.
+
+Position: Junior AI Engineer Intern
+
+Location: Remote/Hybrid
+Duration: 3-6 months (with potential for extension)
+Compensation: Competitive internship stipend + learning opportunities
+
+Job Description:
+We are seeking a motivated Junior AI Engineer Intern to join our dynamic team. This internship provides hands-on experience in developing and deploying AI models, working with real-world datasets, and collaborating on innovative projects. You'll work closely with senior engineers and researchers to build the next generation of AI applications.
+
+Required Skills:
+- python
+- machine learning
+- git
+- apis
+- sql

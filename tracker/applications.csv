@@ -1,0 +1,4 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+1,TechCorp,Junior AI Engineer Intern,LinkedIn,Applied,2024-04-01,,2024-04-08,Follow up in one week,Strong match on Python and ML
+2,DataLabs,AI Research Intern,Company Website,Interview Scheduled,2024-03-20,2024-04-05,2024-04-04,Prepare interview questions,Focus on APIs and SQL
+3,SmartApps,Software Intern,Referral,Not Applied,,,2024-05-01,Apply soon,Add SQL and API experience to resume

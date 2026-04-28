@@ -1,0 +1,14 @@
+Interview Questions:
+1. Can you explain your experience with python?
+2. Can you explain your experience with machine learning?
+3. Can you explain your experience with git?
+4. Can you explain your experience with apis?
+5. Can you explain your experience with sql?
+6. Tell me about yourself.
+7. Why do you want this job?
+8. What are your strengths and weaknesses?
+9. Where do you see yourself in 5 years?
+10. Why did you leave your previous job?
+11. What do you know about: Machine Learning Interview Preparation Notes?
+12. What do you know about: MACHINE LEARNING BASICS?
+13. What do you know about: Machine Learning (ML)?

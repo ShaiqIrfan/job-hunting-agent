@@ -1,0 +1,15 @@
+Skill Gap Report
+
+Job Skills: python, machine learning, git, apis, sql
+Resume Skills: python, machine learning, git
+
+Matched Skills:
+- python
+- machine learning
+- git
+
+Missing Skills:
+- apis
+- sql
+
+Match Score: 60.0%
